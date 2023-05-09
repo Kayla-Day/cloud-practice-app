@@ -1,2 +1,3 @@
-# littletiers
-little tiers
+# Cloud App
+
+Practice deployment with cloud-computing service Heroku
